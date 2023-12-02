@@ -2,7 +2,6 @@ import qrcode as qr
 import tkinter as tk
 
 def gen():
-    global i
     img = qr.make(e.get())
     img.save(f"QrCode.png")
     my_window.destroy()
