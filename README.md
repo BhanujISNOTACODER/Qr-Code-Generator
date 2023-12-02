@@ -3,8 +3,8 @@ This is a QR code generator created using Tkinter and Qrcode python modules
 
 ## This is what the gui looks like 
 <br>
-[![GUI](https://github.com/BhanujISNOTACODER/Qr-Code-Generator/assets/122614303/b985d45f-758d-44eb-9a32-7935165c62a7)
-](https://github-production-user-asset-6210df.s3.amazonaws.com/122614303/287437327-b985d45f-758d-44eb-9a32-7935165c62a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T102355Z&X-Amz-Expires=300&X-Amz-Signature=08081dfd09cbd60cef76f87ad3564c6671db0477606f438dbbc367434ee56622&X-Amz-SignedHeaders=host&actor_id=122614303&key_id=0&repo_id=726410728)https://github-production-user-asset-6210df.s3.amazonaws.com/122614303/287437327-b985d45f-758d-44eb-9a32-7935165c62a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T102355Z&X-Amz-Expires=300&X-Amz-Signature=08081dfd09cbd60cef76f87ad3564c6671db0477606f438dbbc367434ee56622&X-Amz-SignedHeaders=host&actor_id=122614303&key_id=0&repo_id=726410728
+![GUI](https://github.com/BhanujISNOTACODER/Qr-Code-Generator/assets/122614303/66e4f794-6e8f-427c-8c5d-63d45a195150)
+
 <br><br>
 
 ## and upn entering the url, the qrcode is generated
