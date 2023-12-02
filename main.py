@@ -17,7 +17,7 @@ l.grid(row=1,column=0,padx=10,pady=10)
 
 e = tk.Entry(my_window, font=20, bg='lightyellow')
 e.grid(row=1, column=1, padx=10, pady=3)
-b1=tk.Button(my_window,text='Submit', bg='lightgreen',command=lambda: gen(),font=18)
+b1=tk.Button(my_window,text='Generate QR code', bg='lightgreen',command=lambda: gen(),font=18)
 b1.grid(row=2,column=0,padx=10,pady=20)
 
 my_window.mainloop()
