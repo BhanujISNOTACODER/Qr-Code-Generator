@@ -8,7 +8,7 @@ This is a QR code generator created using Tkinter and Qrcode python modules
 
 <br><br>
 
-## and upn entering the url, the qrcode is generated
+## and upon entering the url, the qrcode is generated
 ![QrCode](https://github.com/BhanujISNOTACODER/Qr-Code-Generator/assets/122614303/f0536ed0-da83-4084-aeef-6a14604a5e84)
 <br><br>
 
