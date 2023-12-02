@@ -3,7 +3,8 @@ This is a QR code generator created using Tkinter and Qrcode python modules
 
 ## This is what the gui looks like 
 <br>
-![GUI](https://github.com/BhanujISNOTACODER/Qr-Code-Generator/assets/122614303/46331ba3-4ca2-4b41-a925-ee0fa4e895f7)
+![image](https://github.com/BhanujISNOTACODER/Qr-Code-Generator/assets/122614303/ec6d2262-566b-4a16-8d74-d0a56802d3fd)
+
 
 <br><br>
 
